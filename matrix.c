@@ -1,3 +1,4 @@
+//matrix input and output
 // #include <stdio.h>
 
 // int main()
