@@ -35,7 +35,7 @@ int main()
         }
         printf("\n");
     }
-    int count;
+    int count = 0;
     for (i = 1; i <= v; i++)
     {
         if (adj[i][i] != 0)
